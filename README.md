@@ -18,8 +18,8 @@ conda activate videoevent
 
 ### Training
 
-The training script is located at scripts/video/train.
+The training script is located at `scripts/video/train`.
 
 ### Evaluation
 
-The evaluation scripts are located at scripts/video/eval.
+The evaluation scripts are located at `scripts/video/eval`.
